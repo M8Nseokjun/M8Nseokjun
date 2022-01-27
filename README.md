@@ -51,10 +51,7 @@ My major is Applied Statistics, and I have been studying Data analysis and Machi
 Python(My Most confident language), SQL, R, SPSS languages. I am very interested in machine learning
 
 
-✨ Algorithm 
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=munmun2004)](https://solved.ac/munmun2004/)
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mjs1995&" alt="mjs1995" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=M8Nseokjun&" alt="M8Nseokjun" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mjs1995&label=Profile%20views&color=0e75b6&style=flat-square" alt="mjs1995" /> </p>
 
