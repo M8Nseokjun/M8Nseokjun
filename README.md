@@ -1,42 +1,23 @@
 👨‍💻  Career
 | **Type**                | **Date**              | **Contents**                             | **Organization**       |
 |---------------------|-------------------|--------------------------------------|--------------------|
-| **:mortar_board:Education**           | 2014.3 ~ 2021.2   | Department of Applied Statistics     | **Kyonggi University** |
-| **External activities** | 2019.11 ~ 2019.12 | AI Manager                           | **Nipa**               |
-| **External activities** | 2020.6 ~ 2020.9   | Data Youth Campus(Yonsei University) | **Kdata**              |
-| **External activities** | 2020.10 ~ 2021.1  | Google MachineLearning BootCamp      | **Google Developers**  |
-| **External activities** | 2021.8 ~ 2021.10  | Tableau BootCamp      | **Tableau**  |
-| **:office:Employment** | 2021. 6 ~ | Data Scientist | **LOTTE DATA COMMUNICATION COMPANY** |
+| **:mortar_board:Education**           | 2014.3 ~ 2021.2   | Chinese     | **Kyunghee University** |
+| **External activities** | 2018.3 ~ 2020.6 | Military officer  | **1 Division**               |
+| **:office:Employment** | 2021. 7 ~ | 구매,총무 | **LOTTE People Networks** |
 
-📄 Publication[[Link](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10532320&language=ko_KR)]
+📚 관심사
 
-A Study on the Factors and Overcoming Methods of Extinction of Provinces in Korea: The Exploration with Machine Learning methods - The Korean Journal of Local Government Studies
+해외주식
+  - 1)나스닥
+  - 2)ㅗㅓ
+  
+블록체인
+  - 1)ㅂㅂㅇ
+  - 2)가상화폐
+  
+📫 
 
-🌱 Award[[Link](https://github.com/mjs1995/yeonsei_project/blob/master/%EC%88%98%EC%83%81.md)]
 
-Received the grand prize in the 2020 Big Data Youth Talent Development Project (Data Youth Campus) project evaluation
-
-📚 Tech Stack
-
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=MySql&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/SPSS-052FAD?style=flat-square&logo=IBM&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Apache Spark-E25A1C?style=flat-square&logo=Apache Spark&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/></a> 
-
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Kubernetes-326ce5?style=flat-square&logo=kubernetes&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white"/></a> 
-
-[![Tensorfllow Badge](http://img.shields.io/badge/-Tensorflow_Developer_Certificate-FF6F00?style=flat&logo=TensorFlow&logoColor=white&link=https://www.credential.net/2b437ba4-7039-4ac3-8e41-407ed0c3829f#gs.p7othz)](https://www.credential.net/2b437ba4-7039-4ac3-8e41-407ed0c3829f#gs.p7othz)
-
-📫 Contacts
-
-[![LinkedIn Badge](http://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin&link=https://www.linkedin.com/in/moon-jeongseung-24194b182/)](https://www.linkedin.com/in/moon-jeongseung-24194b182/) [![github](http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://mjs1995.tistory.com/)](https://mjs1995.tistory.com/)
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mjs1995&" alt="mjs1995" /></p>
 
 
 
